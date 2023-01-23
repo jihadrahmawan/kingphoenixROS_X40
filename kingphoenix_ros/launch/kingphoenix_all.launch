@@ -1,0 +1,6 @@
+<launch>
+    
+    <include file="$(find kingphoenix_ros)/launch/esp8266.launch"/>
+    <include file="$(find kingphoenix_ros)/launch/master.launch"/>
+    
+</launch>

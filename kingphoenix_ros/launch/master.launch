@@ -1,0 +1,3 @@
+<launch>
+    <node name="master" pkg="kingphoenix_ros" type="mainRos.py" output="screen" />
+</launch>

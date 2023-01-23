@@ -1,0 +1,3 @@
+<launch>
+    <node name="ESP8266" pkg="kingphoenix_ros" type="esp8266pub.py" output="screen" />
+</launch>
